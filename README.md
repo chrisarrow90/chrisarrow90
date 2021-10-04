@@ -1,5 +1,6 @@
-### Hi there 👋
-🌱 Studying Full Stack Web Development at Enspiral Dev Academy.<br/><br/>
+### Kia Ora! 👋
+🌱 Full Stack Web Developer <br/>
+🌱 Graduate of Enspiral Dev Academy.<br/>
 🌱 Studying towards Bachelor Information Sciences (Software Engineering) at Massey University, New Zealand.
 
 <h3 align="left">Tech Stack</h3>
