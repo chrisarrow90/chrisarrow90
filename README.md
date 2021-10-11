@@ -3,6 +3,8 @@
 🌱 Graduate of Enspiral Dev Academy.<br/>
 🌱 Studying towards Bachelor Information Sciences (Software Engineering) at Massey University, New Zealand.
 
+Currently Learning: NextJS and Typescript
+
 <h3 align="left">Tech Stack</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
